@@ -1,0 +1,26 @@
+.zahlavi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+h1 {color: aqua;
+font-size: 65px;}
+
+body {background-color: aqua;}
+
+.serial {
+    background-color: rgb(74, 238, 156);
+    padding: 10px;
+    margin: 25px;
+    width: 800px;
+    
+    border-radius: 15px
+}
+.cely
+        { display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        }
