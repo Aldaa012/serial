@@ -63,3 +63,23 @@ text-decoration: none;}
 
 
 a {margin-left: 50px;}
+
+.herci {display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;}
+
+
+.herec1 {background-color: rgb(74, 238, 156);
+    padding: 10px;
+    margin: 25px;
+    width: 400px;
+    
+    border-radius: 15px}
+
+
+.foto { width: 100%;
+
+}
+
+h2 {text-align: center;}
